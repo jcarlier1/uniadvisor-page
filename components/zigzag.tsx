@@ -1,8 +1,7 @@
 import Image from 'next/image'
 
-import FeatImage01 from '@/public/images/features-03-image-01.png'
-import FeatImage02 from '@/public/images/features-03-image-02.png'
-import FeatImage03 from '@/public/images/features-03-image-03.png'
+import FeatImage01 from '@/public/images/demo.png'
+import FeatImage02 from '@/public/images/demo1.png'
 
 export default function Zigzag() {
   return (
@@ -13,8 +12,8 @@ export default function Zigzag() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <div className="inline-flex text-xl font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Navigate College with Confidence</div>
-            <h1 className="h2 mb-4">One Billy, unlimited opportunities</h1>
-            <p className="text-xl text-gray-400">Take a peek at some of BetterBilly's features</p>
+            <h1 className="h2 mb-4">One UniAdvisor, unlimited opportunities</h1>
+            <p className="text-xl text-gray-400">Take a peek at some of UniAdvisor's features</p>
           </div>
 
           {/* Items */}
@@ -67,7 +66,7 @@ export default function Zigzag() {
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">Take classes that ignite</div>
                   <h3 className="h3 mb-3">Course Planning Simplified</h3>
-                  <p className="text-xl text-gray-400 mb-4">BetterBilly implements accurate university data and learning from your academic journey to provide personalized recommendations. Simplify your college experience and focus on what truly interests you.</p>
+                  <p className="text-xl text-gray-400 mb-4">UniAdvisor implements accurate university data and learning from your academic journey to provide personalized recommendations. Simplify your college experience and focus on what truly interests you.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">

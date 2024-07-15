@@ -23,7 +23,7 @@ export default function Features() {
               </svg>
 
               <h4 className="h4 mb-2">Discover Courses</h4>
-              <p className="text-lg text-gray-400 text-center">Find courses that fit your schedule and spark your interests. Say goodbye to classes that don't resonate with your academic goals. With BetterBilly, tailor your academic journey to align with what truly excites you, ensuring a fulfilling and engaging college experience.</p>
+              <p className="text-lg text-gray-400 text-center">Find courses that fit your schedule and spark your interests. Say goodbye to classes that don't resonate with your academic goals. With UniAdvisor, tailor your academic journey to align with what truly excites you, ensuring a fulfilling and engaging college experience.</p>
             </div>
 
             {/* 2nd item */}
@@ -37,7 +37,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Match with Clubs</h4>
-              <p className="text-lg text-gray-400 text-center">Finding your perfect match is easier on Tinder than scrolling through the 1000+ clubs available on-campus. Let BetterBilly simplify the process and connect you with clubs and extracurricular activities that align with your passions.</p>
+              <p className="text-lg text-gray-400 text-center">Finding your perfect match is easier on Tinder than scrolling through the 1000+ clubs available on-campus. Let UniAdvisor simplify the process and connect you with clubs and extracurricular activities that align with your passions.</p>
             </div>
 
             {/* 3rd item */}
@@ -51,7 +51,7 @@ export default function Features() {
               </svg>
               
               <h4 className="h4 mb-2">Dive into Research</h4>
-              <p className="text-lg text-gray-400 text-center">BetterBilly helps you explore new horizons and accelerate your learning by joining research projects. Gain valuable professional experience and contribute to groundbreaking discoveries while enhancing your academic journey</p>
+              <p className="text-lg text-gray-400 text-center">UniAdvisor helps you explore new horizons and accelerate your learning by joining research projects. Gain valuable professional experience and contribute to groundbreaking discoveries while enhancing your academic journey</p>
             </div>
             {/* 4th item */}
             <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-delay="200" data-aos-anchor="[data-aos-id-blocks]">
@@ -65,7 +65,7 @@ export default function Features() {
               </svg>
 
               <h4 className="h4 mb-2">Learn Beyond Campus</h4>
-              <p className="text-lg text-gray-400 text-center">In the rare case that it doesn't already exist on-campus, BetterBilly helps you find your niche in online forums, courses, and other learning spaces. Access a wealth of knowledge and resources to support your academic and personal growth, no matter where your interests lie.</p>
+              <p className="text-lg text-gray-400 text-center">In the rare case that it doesn't already exist on-campus, UniAdvisor helps you find your niche in online forums, courses, and other learning spaces. Access a wealth of knowledge and resources to support your academic and personal growth, no matter where your interests lie.</p>
             </div>
           </div>
 
