@@ -1,1 +1,1 @@
-Landing page template from Vercel
+Landing page template from Vercel. Adapted for UniAdvisor
